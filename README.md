@@ -36,7 +36,7 @@ Pillow (PIL)
 # 🚀 Setup Instructions
 1️⃣ Clone the Repository
 
-git clone https://github.com/yourusername/AI-Chat-App-with-OCR.git
+git clone https://github.com/SaiKeerthiGade/AI-Chat-App-with-OCR-using-Streamlit-and-Ollama
 
 cd AI-Chat-App-with-OCR
 
@@ -72,7 +72,7 @@ Debug or explain uploaded code snippets
 
 Perform deep research queries using LLMs
 
-#🔮 Future Enhancements
+# 🔮 Future Enhancements
 
 Multi-language OCR support
 
