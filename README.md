@@ -38,7 +38,7 @@ Pillow (PIL)
 
 git clone https://github.com/SaiKeerthiGade/AI-Chat-App-with-OCR-using-Streamlit-and-Ollama
 
-cd AI-Chat-App-with-OCR
+cd AI-Chat-App-with-OCR-using-Streamlit-and-Ollama
 
 2️⃣ Create and Activate Virtual Environment
 
@@ -54,7 +54,7 @@ pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tessera
 
 5️⃣ Run the Application
 
-streamlit run app.py
+streamlit run OCR_AIapp.py
 
 
 Open your browser and visit:
