@@ -42,11 +42,6 @@ cd AI-Chat-App-with-OCR
 python -m venv venv
 # Windows
 venv\Scripts\activate
-# Linux/Mac
-source venv/bin/activate
-
-3️⃣ Install Dependencies
-pip install -r requirements.txt
 
 4️⃣ Configure Tesseract Path (for OCR)
 pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
