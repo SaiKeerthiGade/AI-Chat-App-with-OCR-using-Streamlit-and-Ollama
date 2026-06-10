@@ -60,6 +60,8 @@ streamlit run OCR_AIapp.py
 Open your browser and visit:
 👉 http://localhost:8501
 
+<img width="1885" height="873" alt="Screenshot 2025-10-21 210033" src="https://github.com/user-attachments/assets/56dc5b26-a94a-4ebd-bed3-ce9c3216a715" />
+
 # 📌 Use Cases
 
 Chat with AI for learning, coding assistance, or generating content
