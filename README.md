@@ -63,6 +63,8 @@ Open your browser and visit:
 <img width="1913" height="879" alt="Screenshot 2025-10-02 164441" src="https://github.com/user-attachments/assets/3e0350f8-dbfc-41bb-aab0-bc5e040d3440" />
 
 
+Image Analysis
+
 <img width="1906" height="940" alt="Screenshot 2025-10-15 220450" src="https://github.com/user-attachments/assets/4966867c-7867-4e61-a365-e9ba7dc8d9ac" />
 
 
