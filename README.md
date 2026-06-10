@@ -60,7 +60,12 @@ streamlit run OCR_AIapp.py
 Open your browser and visit:
 👉 http://localhost:8501
 
-<img width="1885" height="873" alt="Screenshot 2025-10-21 210033" src="https://github.com/user-attachments/assets/56dc5b26-a94a-4ebd-bed3-ce9c3216a715" />
+<img width="1913" height="879" alt="Screenshot 2025-10-02 164441" src="https://github.com/user-attachments/assets/3e0350f8-dbfc-41bb-aab0-bc5e040d3440" />
+
+
+<img width="1906" height="940" alt="Screenshot 2025-10-15 220450" src="https://github.com/user-attachments/assets/4966867c-7867-4e61-a365-e9ba7dc8d9ac" />
+
+
 
 # 📌 Use Cases
 
